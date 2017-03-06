@@ -1,4 +1,4 @@
-//SainSmart 1602 keypad shield hello world example code
+//SainSmart 1602 keypad shield example code
 // include the library code:
 #include <LiquidCrystal.h>
  
